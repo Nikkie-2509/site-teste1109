@@ -1,5 +1,5 @@
 body{
-    background-color:#9a4ddaed;
+    background-color:#9b4dda;
 }
 h1 {
     text-align: center;
@@ -9,4 +9,7 @@ h1 {
 
 h2{
     color: white;
+}
+h3{
+    color: #9b4dda;
 }
